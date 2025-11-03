@@ -28,9 +28,10 @@ export default function Home() {
       url = "https://biganto.com/tour/46914/?iframe=1";
     } else if (tour === "aerial") {
       url = "https://biganto.com/tour/46798/?iframe=1";
-    }  {
-      url = "https://biganto.com/tour/46783/?iframe=1";
-    }
+    }  
+    // {
+    //   url = "https://biganto.com/tour/46783/?iframe=1";
+    // }
 
     setIframeUrl(url);
   }, []);
