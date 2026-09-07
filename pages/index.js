@@ -30,8 +30,7 @@ export default function Home() {
       url = "https://biganto.com/tour/46798/?iframe=1";
     }else if (tour === "aerial-new") {
       url = "https://biganto.com/tour/48993/?iframe=1";
-    }
-    else {
+    }else {
       url = "https://biganto.com/tour/46783/?iframe=1";
     }
 
